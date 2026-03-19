@@ -24,4 +24,4 @@ classifying customer into diffrent bucket of (loyal, VIP and periodic) customers
 # How to View
 Download the adven02.pbix file.Open with Power BI Desktop.
 
-![image_url](https://github.com/Eshydat/Super-Market-Sales-Insight/blob/09e0f711a7ff02ad9d8fd1df1929df3163181e77/Screenshot%202026-01-19%20002517.png)
+![image_url](https://github.com/Eshydat/AdventureWorks-Sales/blob/81c54e690773cf3b8178c37d5a6898490dba7be7/Screenshot%202026-03-16%20094819.png)
