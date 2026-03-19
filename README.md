@@ -23,3 +23,5 @@ classifying customer into diffrent bucket of (loyal, VIP and periodic) customers
 
 # How to View
 Download the adven02.pbix file.Open with Power BI Desktop.
+
+[image_url](
