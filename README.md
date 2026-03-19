@@ -4,10 +4,11 @@ This project involves a comprehensive analysis of the AdventureWorks retail data
 
 # Technical Highlights
 
-# Data Modeling: Developed a robust Star Schema model involving Fact table and Multiple Dimension tables (Products, Customers, Regions, and Calendar). 
+# Data Modeling: 
+Developed a robust Star Schema model involving Fact table and Multiple Dimension tables (Products, Customers, Regions, and Calendar). 
 
-# DAX Implementation: Created several measures by using multiple dax functions to derived detailed insight on customer segregation and performance across different geographical location
-These dax functions include: SUMX, CALCULATE, AVERAGE, AVERAGEX, RANKX, SUM, RELATED, COUNTROWS, DISTINCTCOUNT, IF, CONDITONAL FORMATING and so on.
+# DAX Implementation:
+Created several measures by using multiple dax functions to derived detailed insight on customer segregation and performance across different geographical location These dax functions include: SUMX, CALCULATE, AVERAGE, AVERAGEX, RANKX, SUM, RELATED, COUNTROWS, DISTINCTCOUNT, IF, CONDITONAL FORMATING and so on.
 
 # Advanced Visualization: 
 Leveraged custom themes, background overlays for a polished UI, and interactive slicers to allow for deep-dive regional analysis. 
