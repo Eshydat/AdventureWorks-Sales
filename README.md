@@ -13,7 +13,8 @@ Created several measures by using multiple dax functions to derived detailed ins
 # Advanced Visualization: 
 Leveraged custom themes, background overlays for a polished UI, and interactive slicers to allow for deep-dive regional analysis. 
 
-# Data Transformation: Used Power Query for extensive data cleaning, including date formatting, conditional columns, adding new columns and merging different datasets. 
+# Data Transformation:
+Used Power Query for extensive data cleaning, including date formatting, conditional columns, adding new columns and merging different datasets. 
 
 # Key Insights Product Performance:
 Identified top customer driving sales from different regions
